@@ -1,5 +1,5 @@
-# Affiliates - Free Jekyll Theme
+# Site e Blog SoteroLab
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+Esse site foi construído a partir do tema [Affiliates - Jekyll Theme for Bloggers](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/). 
 
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+Link para fazer a [instalação do Jekyll localmente](https://jekyllrb.com/docs/installation/).
