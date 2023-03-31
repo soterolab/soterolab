@@ -49,7 +49,7 @@ h4, .h4, h5, .h5 {
 }
 
 .font-weight-bold {
-    font-weight:600 !important;
+    font-weight:500 !important;
 }
 a {
     color:inherit;
@@ -610,6 +610,6 @@ span.navigation:before {
 }
 
 .hover-opacity:hover {
-    transition: all.3s;
+    //transition: all.3s;
     opacity:.8;
 }

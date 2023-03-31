@@ -1,6 +1,4 @@
-# Caderninho
-
-Escritos de uma pesquisadora baiana, inquieta e cansada.
+# Site e Blog SoteroLab
 
 Esse site foi construído a partir do tema [Affiliates - Jekyll Theme for Bloggers](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/). 
 
