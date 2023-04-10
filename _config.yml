@@ -3,7 +3,6 @@ email: osoterolab@gmail.com
 timezone: UTC
 baseurl: "/soterolab-new"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
@@ -43,7 +42,7 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/soterolab_/
+  instagram: https://www.instagram.com/osoterolab/
 
 # Plugins
 plugins: 

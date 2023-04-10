@@ -51,6 +51,12 @@ h4, .h4, h5, .h5 {
 .font-weight-bold {
     font-weight:500 !important;
 }
+
+.font-weight-bold-white {
+    font-weight:500;
+    color: white;
+}
+
 a {
     color:inherit;
     text-decoration:none;
@@ -135,8 +141,8 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
-    padding: 5rem 5rem;
+    background: #dc2f02;
+    padding: 1rem 3rem;
 }
 
 @media only screen and (max-width: 1024px) {
