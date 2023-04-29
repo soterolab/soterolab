@@ -1,7 +1,7 @@
 title: "SoteroLab"
 email: osoterolab@gmail.com
 timezone: UTC
-baseurl: "/soterolab-new"
+baseurl: "/soterolab"
 permalink: "/:title/"
 favicon: 'assets/images/favicon.ico'
 author: Sal
