@@ -2,6 +2,7 @@
 layout: page
 permalink: "/about/"
 image: assets/images/colagem_salvador.png
+title: O que é o SoteroLab?
 ---
 
 Laboratório Soteropolitano, de raiz *suburbana*, compromissado social e politicamente na discussão e produção de conhecimentos sobre tecnologias da informação.
