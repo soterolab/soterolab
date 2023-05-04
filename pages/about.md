@@ -6,7 +6,7 @@ image: assets/images/salvador.png
 
 # O que é o SoteroLab?
 
-Laboratório Soteropolitano, diretamente da suburbana, compromissado social e politicamente na discussão e produção de conhecimentos sobre tecnologias da informação.
+Laboratório Soteropolitano, de raiz suburbana, compromissado social e politicamente na discussão e produção de conhecimentos sobre tecnologias da informação.
 
 Atualmente somos um _laboratório virtual_, mas trabalhamos para construir os caminhos de ter um espaço físico em um médio-longo prazo. O nosso sonho é que, para além das atividades formativas e discursivas:
 > o *Sotero* possa ser um lugar onde qualquer pessoa possa chegar, ter um prato de comida quentinha e gostosa, uma infraestrutura aconchegante e boas conversas sobre tecnologias, ancestralidade e cultura.
@@ -23,7 +23,7 @@ Nosso planejamento é fazer isso através de duas frentes de trabalho:
 
 Para 2023 planejamos materializar nossas intenções através de 2 atividades principais:
 1. Curso de Programação em Python;
-2. Grupo de Estudo Ìyá Ágbà: Sobre o Livro: Comunidades, Algoritmos e Ativismos Digitais: olhares afro diaspóricos de organização de [Tarcízio Silva](https://tarciziosilva.com.br/blog/).
+2. Grupo de Estudo _Marcelina Moreira_: Sobre o Livro: Comunidades, Algoritmos e Ativismos Digitais: olhares afro diaspóricos de organização de [Tarcízio Silva](https://tarciziosilva.com.br/blog/).
 
 A partir da troca com o público podemos realizar outras atividades oportunas, a fim de mantermos as trocas e discussões de forma constante e atrativas para questões do cotidiano. Serão exercícios possíveis as rodas de conversa sobre trabalhos de conclusão de curso e desenvolvimento no ensino superior, oficinas de Git/GitHub e a construção de Blogs/Sites.
 
@@ -31,7 +31,7 @@ A partir da troca com o público podemos realizar outras atividades oportunas, a
 
 Salientamos que em todas as nossas atividades, sejam elas em formato virtual ou presencial, é imprescindível que todos os participantes ali inscritos e/ou presentes se comprometam em exercer uma conduta em conformidade com o código de conduta aqui descrito. 
 
-O Código de Conduta do SoteroLab visa garantir um ambiente amistoso e **livre de qualquer tipo de violência, assédio, intimidação e discriminação**. Todas as pessoas e falas devem ser respeitadas desde que não exerçam ação de teor homofóbico, misógino, capacitista, racista e nem de intolerância religiosa. 
+O Código de Conduta do SoteroLab visa garantir um ambiente amistoso e **livre de qualquer tipo de violência, assédio, intimidação e discriminação**. Todas as pessoas e falas devem ser respeitadas. Não aceitamos ações de teor homofóbico, misógino, capacitista, racista e nem de intolerância religiosa. 
 
 Caso sinta que o código de conduta foi desrespeitado por qualquer participante, reporte as pessoas da organização do evento. A partir dessa comunicação a organização deverá atuar com as ações cabíveis.
 
