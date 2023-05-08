@@ -5,10 +5,13 @@ categories: [ Sobre ]
 image: assets/images/caminho.png
 author: sotero
 ---
-
 >_"Samba que caminha ao progresso_
-_Vai dizendo sem receio_
-_Devagar também é pressa"_ - **_[Devagar também é pressa - Agepê](https://www.youtube.com/watch?v=FKsbuy28Pm8)_**
+>
+>_Vai dizendo sem receio_
+>
+>_Devagar também é pressa"_ - **_[Devagar também é pressa - Agepê](https://www.youtube.com/watch?v=FKsbuy28Pm8)_**
+
+---
 
 É com muita alegria que finalmente podemos dizer: retomamos as atividades no SoteroLab!
 
@@ -21,7 +24,7 @@ Iniciamos as atividades de organização interna de materiais, de produção de 
 O Sotero nasceu com uma ideia de ser um:
 >*Laboratório para incentivar a democratização e descolonização do pensamento científico, e por pensamento científico estávamos nos referindo à observação e a resolução de problemas de forma sistemática.* 
 
-Mas logo vimos que precisamos trabalhar um pouco mais sobre essa intenção, que precisavamos nos aprofundar no amplo debate em torno dos conceitos de descolozinação, decolonialidade, do [pensamento contracolonial de Nego Bispo](https://www.institutoclaro.org.br/educacao/nossas-novidades/podcasts/o-que-e-contra-colonial-e-qual-a-diferenca-em-relacao-ao-pensamento-decolonial/), e, além disso, que precisávamos enfatizar a nossa crítica ao caráter histórico, institucional e estrutural da opressão sobre os corpos que podem ou não *fazer ciência*.
+Mas logo vimos que precisamos trabalhar um pouco mais sobre essa intenção, que precisávamos anunciar o que de fato era a nossa motivação, que precisavamos nos aprofundar no amplo debate em torno dos conceitos de descolozinação, decolonialidade, do [pensamento contracolonial de Nego Bispo](https://www.institutoclaro.org.br/educacao/nossas-novidades/podcasts/o-que-e-contra-colonial-e-qual-a-diferenca-em-relacao-ao-pensamento-decolonial/), e, além disso, que precisávamos enfatizar a nossa crítica ao caráter histórico, institucional e estrutural da opressão sobre os corpos que podem ou não *fazer ciência*.
 
 Sendo assim, hoje temos de forma precisa, e em expansão, que somos um:
 
