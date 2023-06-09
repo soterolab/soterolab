@@ -5,7 +5,7 @@ image: assets/images/colagem_salvador.png
 title: O que é o SoteroLab?
 ---
 
-Laboratório Soteropolitano, de raiz *suburbana*, compromissado social e politicamente na discussão e produção de conhecimentos sobre tecnologias da informação.
+Laboratório Soteropolitano, raiz periférica, compromissado social e politicamente na discussão e produção de conhecimentos sobre tecnologias da informação.
 
 Atualmente somos um _laboratório virtual_, mas trabalhamos para construir os caminhos de ter um espaço físico em um médio-longo prazo. O nosso sonho é que, para além das atividades formativas e discursivas:
 > o *Sotero* possa ser um lugar onde qualquer pessoa possa chegar, ter um prato de comida quentinha e gostosa, uma infraestrutura aconchegante e boas conversas sobre tecnologias, política, ancestralidade e cultura.
