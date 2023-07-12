@@ -24,7 +24,7 @@ Para 2023 planejamos materializar nossas intenções através de 2 atividades pr
 1. Curso de Programação em Python;
 2. Grupo de Estudo _Marcelina Moreira_: Sobre o Livro: [Comunidades, Algoritmos e Ativismos Digitais: olhares afro diaspóricos](https://www.researchgate.net/publication/339954112_Comunidades_Algoritmos_e_Ativismos_Digitais_olhares_afrodiasporicos) de organização de [Tarcízio Silva](https://tarciziosilva.com.br/blog/).
 
-A partir da troca com o público podemos realizar outras atividades oportunas, a fim de mantermos as trocas e discussões de forma constante e atrativas para questões do cotidiano. Serão exercícios possíveis as rodas de conversa sobre trabalhos de conclusão de curso e desenvolvimento no ensino superior, oficinas de Git/GitHub e a construção de Blogs/Sites.
+A partir da troca com a comunidade podemos realizar outras atividades oportunas, a fim de mantermos as trocas e discussões de forma constante e atrativas para questões do cotidiano. Serão exercícios possíveis as rodas de conversa sobre trabalhos de conclusão de curso e desenvolvimento no ensino superior, oficinas de Git/GitHub e a construção de Blogs/Sites.
 
 ## Código de Conduta
 
