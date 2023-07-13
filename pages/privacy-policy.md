@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de Privacidade
-permalink: /politica-privacidade/
+permalink: /privacy-policy/
 comments: false
 ---
 
