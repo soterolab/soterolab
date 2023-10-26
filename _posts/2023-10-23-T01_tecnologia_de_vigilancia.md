@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Meredith Whittaker, do Signal a "IA é fundamentalmente uma tecnologia de vigilância"
+title: Meredith Whittaker, do Signal: a "IA é fundamentalmente uma tecnologia de vigilância"
 categories: [tradução]
 image: assets/images/traducao01.png
 author: sotero
