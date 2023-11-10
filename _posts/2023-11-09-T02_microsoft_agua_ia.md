@@ -6,7 +6,7 @@ image: assets/images/traducao02.png
 author: sotero
 ---
 
-Imagem por GettyImages
+<sup><sub>Imagem por GettyImages</sub></sup>
 
 _Este post é uma tradução, assistida pelo ChatGPT, de um [artigo](https://futurism.com/critics-microsoft-water-train-ai-drought) de Sharon Adarlo para a Futurism._
 
