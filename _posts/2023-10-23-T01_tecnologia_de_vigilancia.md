@@ -6,6 +6,8 @@ image: assets/images/traducao01.png
 author: sotero
 ---
 
+<sup><sub>Imagem por Kimberly White/Getty Images for TechCrunch</sub></sup>
+
 _Este post é uma tradução, assistida pelo [ChatGPT](https://chat.openai.com/), de um [artigo](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/) de Devin Coldewey no TechCrunch._
 
 Por que tantas empresas que dependem da monetização dos dados de seus usuários parecem estar extremamente interessadas em IA? Se você perguntar à presidente da Signal, Meredith Whittaker (e eu perguntei), ela dirá que é simplesmente porque "a IA é uma tecnologia de vigilância".
