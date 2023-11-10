@@ -6,6 +6,8 @@ image: assets/images/traducao02.png
 author: sotero
 ---
 
+Imagem por GettyImages
+
 _Este post é uma tradução, assistida pelo ChatGPT, de um [artigo](https://futurism.com/critics-microsoft-water-train-ai-drought) de Sharon Adarlo para a Futurism._
 
 Conforme relatado pela Associated Press no início de setembro, os data centers da Microsoft em West Des Moines, Iowa, consumiram enormes quantidades de água no ano passado para se manterem resfriados durante o treinamento do ChatGPT-4 da OpenAI, o grande modelo de linguagem [large language model] mais avançado disponibilizado publicamente pela empresa apoiada pela Microsoft.
